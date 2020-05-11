@@ -1,4 +1,4 @@
-/* returns all columns and all rows from both tables.
+/* returns all columns and all rows from both tables. */
 
 SELCT table1.column, table2.column, . . . .
 FROM <table 1>
