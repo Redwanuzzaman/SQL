@@ -1,5 +1,5 @@
-/* prints all columns of the 2nd table and  1st table.
-if there is a mismatch value in anynd table the field will be filled the "NULL" keyword.. */
+/* returns all records if there is a match in any of the tables.
+if there is a mismatch value in any table the field will be filled the "NULL" keyword.. */
 
 SELCT table1.column, table2.column, . . . .
 FROM <table 1>
